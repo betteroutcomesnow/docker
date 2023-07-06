@@ -1,0 +1,3 @@
+# Run every minute.
+0 */1 * * * * * php artisan export-jobs:process
+# Empty line
